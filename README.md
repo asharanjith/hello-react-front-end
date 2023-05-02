@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-# 📖 Hello Rails Back End
+# 📖 Hello Rails Front End
 
 <!-- TABLE OF CONTENTS -->
 
